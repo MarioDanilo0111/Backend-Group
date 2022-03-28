@@ -55,3 +55,15 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+
+TILL GRUPPEN
+
+HTML och JS filer finns under strapi API
+
+*'Correct' filer är kod från Marcus
+*dbImages.js är objekt med bilder från cloudinary
+*index.html laptops.js style.css är huvudfilerna som hämtar produkterna från strapi
+*testing.js är testfil för kod *oviktigt
+
+Använder yarn som package manager!
